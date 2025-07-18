@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TFTItemApplication</string>
+    <string name="bad_input_text">Wrong or Bad Input</string>
+    <string name="tft_title_string">TFT Items by Placement</string>
+    <string name="loading_data">Loading data...</string>
+    <string name="load_button">Load Data</string>
+    <string name="enter_riot_api_key">Enter Riot API key...</string>
+    <string name="item_title">Item Title</string>
+    <string name="item_placement_goes_here">Item placement goes here</string>
+</resources>
